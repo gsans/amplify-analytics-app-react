@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"analyticsappe3419e2c": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"analyticsapp": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

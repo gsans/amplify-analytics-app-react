@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "analytics-app-dev-20190623175142-authRole",
+            "UnauthRoleArn": "arn:aws:iam::664371068953:role/analytics-app-dev-20190623175142-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::664371068953:role/analytics-app-dev-20190623175142-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "analytics-app-dev-20190623175142-deployment",
+            "UnauthRoleName": "analytics-app-dev-20190623175142-unauthRole",
+            "StackName": "analytics-app-dev-20190623175142",
+            "StackId": "arn:aws:cloudformation:eu-central-1:664371068953:stack/analytics-app-dev-20190623175142/5ae71e30-95c6-11e9-9824-0a0ca1a48442"
+        },
+        "categories": {
+            "auth": {
+                "analyticsappe3419e2c": {}
+            }
+        }
+    }
+}
